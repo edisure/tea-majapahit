@@ -1,0 +1,24 @@
+{
+  "name": "tea-majapahit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisure/tea-majapahit.git"
+  },
+  "author": "edi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisure/tea-majapahit/issues"
+  },
+  "homepage": "https://github.com/edisure/tea-majapahit#readme",
+  "dependencies": {
+    "tea-bodoh": "^1.0.0",
+    "tea-guilds": "^1.0.0",
+    "una-tea": "^1.0.0"
+  }
+}
